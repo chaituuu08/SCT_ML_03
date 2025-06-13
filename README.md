@@ -1,0 +1,2 @@
+# SCT_ML_03
+machine Learning task 3-IMAGE CLASSIFICATION USING SVM 
